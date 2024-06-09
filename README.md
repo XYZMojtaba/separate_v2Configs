@@ -15,7 +15,7 @@ cd ~/storage/shared/Download
 Next, download and run the script using the following command:
 
 ```bash
-curl -O https://raw.githubusercontent.com/XYZMojtaba/v2ray-config-renamer/main/my_script.sh && bash ./my_script.sh
+curl -O https://raw.githubusercontent.com/XYZMojtaba/separate_v2Configs/main/my_script.sh && bash ./my_script.sh
 ```
 
 ## Step 3: Enter the Input File Name
