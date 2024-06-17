@@ -7,7 +7,7 @@ This guide will walk you through the steps to use my awesome project to simplify
 First, navigate to the directory where you want to download and run the script. For example:
 
 ```bash
-cd ~/storage/shared/Download
+termux-setup-storage && cd ~/storage/shared/Download
 ```
 
 ## Step 2: Download and Run the Script
